@@ -1,0 +1,6 @@
+c:\users\hilcomputer\documents\visual studio 2013\Projects\reverserStrings\reverserStrings\bin\Debug\reverserStrings.exe.config
+c:\users\hilcomputer\documents\visual studio 2013\Projects\reverserStrings\reverserStrings\bin\Debug\reverserStrings.exe
+c:\users\hilcomputer\documents\visual studio 2013\Projects\reverserStrings\reverserStrings\bin\Debug\reverserStrings.pdb
+c:\users\hilcomputer\documents\visual studio 2013\Projects\reverserStrings\reverserStrings\obj\Debug\reverserStrings.csprojResolveAssemblyReference.cache
+c:\users\hilcomputer\documents\visual studio 2013\Projects\reverserStrings\reverserStrings\obj\Debug\reverserStrings.exe
+c:\users\hilcomputer\documents\visual studio 2013\Projects\reverserStrings\reverserStrings\obj\Debug\reverserStrings.pdb
